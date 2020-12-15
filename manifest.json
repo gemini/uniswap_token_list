@@ -1,9 +1,9 @@
 {
-  "name": "Gemini",
+  "name": "Gemini Token List",
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "keywords": [
     "gemini",
